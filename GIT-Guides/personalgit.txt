@@ -1,0 +1,77 @@
+
+#337ab7 = rgba(51, 122, 183, 1)
+
+Dark Blue: #024e9b
+
+Hover Ice Blue: rgba(176, 207, 237, 1)
+
+// Define base and accent colors
+$base-color: #3498db;
+$base-color-hover: darken($base-color, 10%);
+
+// Define background colors
+$background: #fff;
+$background-alt: #f2f2f5;
+
+// Define border colors
+$border: #dcd9d9;
+
+// Define text colors
+$heading: #374054;
+$text: #74808a;
+
+'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+https://ashishkushwaha.github.io/
+
+https://ryanfitzgerald.ca/
+
+https://ryanfitzgerald.github.io/devportfolio/
+
+https://www.gabrieladorf.com/
+
+
+- Skill: Primary Skill, Skill Cloud: https://www.anychart.com/blog/2019/04/30/create-javascript-word-cloud-chart-tutorial/, https://www.zingchart.com/docs/chart-types/wordcloud
+
+- UI on Mobile is distorted. Check responsiveness. Ashish's works fine. - done. 
+- Move map marker a little down in arrow. - done. 
+
+https://css-tricks.com/custom-list-number-styling/
+
+
+.z-projects-depth {
+  box-shadow: 0 8px 17px 8px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); }
+
+- logo design
+- certifications page 
+- education page
+- add counter for total experience - years and months. 
+- see a way to highlight major achievement on the first page of site
+
+- Complete Azure Champs listing again. 
+
+
+map marker for experience - moblie 44.4, desktop 48.4
+
+map marker for edu - moblie 15%, desktop 20%
+
+- add media screen options for timeline css in style.css
+- add link to C# corner - https://www.c-sharpcorner.com/members/hitesh-kacholiya2
+
+- write a blog on how to use the vision api with sample code
+- Read Azure Arc
+- https://www.c-sharpcorner.com/blogs/azure-content-moderator-api-using-cognitive-service
+
+https://formspree.io/hitesh.kacholiya@gmail.com
+
+WhtsApp DM: https://wa.me/18329041884
+Twitter DM: <a href="https://twitter.com/messages/compose?recipient_id=&ref_src=twsrc%5Etfw" class="twitter-dm-button" data-screen-name="@h_kacholiya" data-show-count="false">Message @@h_kacholiya</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+MS Learn Profile: https://docs.microsoft.com/en-us/users/HiteshKacholiya/
+
+Responsive sections:
+1. default
+2. @media only screen and (max-width: 600px) {}
+3. @media only screen and (min-width: 601px) and (max-width: 1024px) {}
+4. @media only screen and (min-width: 1025px) and (max-width: 1280px) {}
+
+

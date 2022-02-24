@@ -1,0 +1,26 @@
+1. Create PAT token at the source and destination
+2. Clone the repo to be migrated
+	git clone https://github.build.ge.com/212640230/bh-hpc-cloud.git temp-dir
+3. Open the folder
+	cd temp-dir
+4. List all branch
+	git branch -a
+5. Checkout all branches to be copied
+	git checkout 212640230
+	git checkout dev
+	git checkout master
+6. Fetch all tags
+	git fetch --tags
+7. Validate
+	git tag
+	git branch -a
+8. Remove source link
+	git remote rm origin
+9. Check branches
+	git branch -a (should have all branches)
+9. Link destination
+	git remote add origin https://github.com/kachhit/test-migrate.git
+	git branch -M main
+10. Push changes
+	git push origin --all
+	git push --tags
